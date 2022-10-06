@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml><GroundOverlay><name>dzerj.jpg</name><color>88ffffff</color><Icon>
+<href>dzerj.jpg</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north>55.6440322528434</north>
+<south>55.6305779996285</south>
+<east>37.8944420814514</east>
+<west>37.8494989871979</west>
+</LatLonBox></GroundOverlay></kml>
